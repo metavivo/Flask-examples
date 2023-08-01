@@ -1,0 +1,20 @@
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+}
+
+
+
+textarea { 
+			border: none; 
+			margin-bottom: 10px; 
+			padding: 10px; 
+			outline: 2px dashed #CCC; 
+			gont-family: Helvetica, Sans-Serif;
+ 			font-size: 20px; 
+			width: 90%;
+			height: 150px;
+}
+
+#txtarea:hover { outline: 2px dashed #0090D2; }
+
